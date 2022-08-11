@@ -1,0 +1,30 @@
+{
+  "name": "demo-blog-home-starter",
+  "private": true,
+  "author": {
+    "name": "Colby Fayock",
+    "email": "hello@colbyfayock.com",
+    "url": "https://twitter.com/colbyfayock"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@uniformdev/canvas": "^17.0.0",
+    "@uniformdev/canvas-bigcommerce": "^17.0.0",
+    "@uniformdev/canvas-cloudinary": "^17.0.0",
+    "@uniformdev/canvas-react": "^17.0.0",
+    "cloudinary-video-player": "^1.9.1",
+    "next": "12.0.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "sass": "^1.43.4"
+  },
+  "devDependencies": {
+    "eslint": "7",
+    "eslint-config-next": "12.0.4"
+  }
+}
